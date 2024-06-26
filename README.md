@@ -29,7 +29,7 @@ scheme's impact?
 - Step 3 : Reduction of entries names in categorical columns to aid better vizualization.
 
 - Step 4 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places .
-- Snap of dataset after cleaning,
+  Snap of dataset after cleaning,
 
 ![Powerbi 1](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/c2b9e08d-6587-432d-9732-65987958befa)
 
