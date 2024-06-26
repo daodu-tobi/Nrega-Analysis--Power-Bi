@@ -4,7 +4,7 @@ This project analyzes NREGA data to evaluate its effectiveness, regional dispari
 
 ## Problem Statement
 
-NREGA is a vital initiative to alleviate rural unemployment and poverty. This project seeks to address 
+NREGA is a vital initiative to alleviate rural unemployment and poverty in India. This project seeks to address 
 several key questions and challenges associated with NREGA:
 
 ● How effective is NREGA in providing employment opportunities to rural households?
