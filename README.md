@@ -61,6 +61,7 @@ scheme's impact?
   - There are more workers in states with many districts therefore job cards to active job card ratio was high.
 
   - There are no regional disparities in the distribution of employment as states with more districts got more employment due to higher number of workers and states with fewer districts got fewer number of employment due to low number of workers.
+    
 
 - Step 9: Creation of hierarchy to make the districts a subset of each states and creating visuals through the use of line charts to display the budget allocation and its correlation with employment opportunities.
 
@@ -77,18 +78,21 @@ scheme's impact?
      - With reduced budgets, employment rates in states reduced drastically.
 
   - Completion of work was majorly high in states with higher job card rate
+    
 
 - Step 10: The use of tables to calculate the sum of completed works, factors that contributed to the completed works
    
    Snap of visuals for completed works
 
    ![Power bi 4](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/17452cb4-3b3f-4bab-a8a3-557aced91ada)
+  
 
    #### INSIGHT FROM COMPLETED WORK ANALYSIS
 
   - States with higher ratio of completed works to available works had higher number of active 
   
   - Lack of approved funds to support workers in a state led to large number of uncompleted work
+
 
 
   #### RECOMMENDATIONS
