@@ -46,7 +46,7 @@ scheme's impact?
 
    
 
-- Step 8: The use of clustered column charts was used to create a visual to display fields such as 'Total number of job cards', 'Active job cards', 'Total workers' and 'Active workers'.
+- Step 8 : The use of clustered column charts was used to create a visual to display fields such as 'Total number of job cards', 'Active job cards', 'Total workers' and 'Active workers'.
 
    Snap of visuals for employment opportunities across states and districts
 
@@ -63,7 +63,7 @@ scheme's impact?
   - There are no regional disparities in the distribution of employment as states with more districts got more employment due to higher number of workers and states with fewer districts got fewer number of employment due to low number of workers.
     
 
-- Step 9: Creation of hierarchy to make the districts a subset of each states and creating visuals through the use of line charts to display the budget allocation and its correlation with employment opportunities.
+- Step 9 : Creation of hierarchy to make the districts a subset of each states and creating visuals through the use of line charts to display the budget allocation and its correlation with employment opportunities.
 
   Snap of visuals for budget allocation
 
@@ -80,7 +80,7 @@ scheme's impact?
   - Completion of work was majorly high in states with higher job card rate
     
 
-- Step 10: The use of tables to calculate the sum of completed works, factors that contributed to the completed works
+- Step 10 : The use of tables to calculate the sum of completed works, factors that contributed to the completed works
    
    Snap of visuals for completed works
 
