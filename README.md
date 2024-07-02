@@ -30,7 +30,7 @@ scheme's impact?
 
 - Step 4 : State names were group based on similar prefixes
 
-- Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places .
+- Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places for easy calculation .
 
   Snap of dataset after cleaning,
 
@@ -71,9 +71,9 @@ scheme's impact?
 
    #### INSIGHT FROM BUDGET ALLOCATION ANALYSIS 
 
-    - States with higher number of districts got higher budgets, however, WEST BENGAL had no budget all despite of it high number of districts.
+    - States with higher number of districts got higher budgets, however, WEST BENGAL had no budget all despite high number of districts.
 
-    - Higher budgets in states with many districts     resulted higher in number of employment
+    - Higher budgets in states with many districts resulted higher in number of employment
 
      - With reduced budgets, employment rates in states reduced drastically.
 
