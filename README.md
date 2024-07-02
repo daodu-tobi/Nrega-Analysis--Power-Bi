@@ -27,9 +27,16 @@ scheme's impact?
 - Step 2 : Open power query editor to clean data and get data ready for analyzes.
 
 - Step 3 : Reduction of entries names in categorical columns to aid better vizualization.
-
+  
+         'SILIGURI MAHAKUMA PARISAD' was reduced to 'SILIGURI M'
+         'Darjeeling Gorkha Hill Council (DGHC) was reduced to 'DGHC
+         'EASTERN WEST KHASI HILLS' was reduced to 'E.W.KHASI H.'
+        
 - Step 4 : State names were group based on similar prefixes
-
+  
+     For example 'ANDHRA PRADESH' occured so many times, so it was reduced to 'ANDHRA'
+    'ANDAMAN AND NICOBAR' was reduced to 'ANDAMAN'
+  
 - Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places for easy calculation .
 
   Snap of dataset after cleaning,
