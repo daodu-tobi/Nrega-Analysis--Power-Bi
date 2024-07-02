@@ -35,7 +35,8 @@ scheme's impact?
 - Step 4 : State names were group based on similar prefixes
   
      For example 'ANDHRA PRADESH' occured so many times, so it was reduced to 'ANDHRA'.
-    'ANDAMAN AND NICOBAR' was reduced to 'ANDAMAN'
+  
+     'ANDAMAN AND NICOBAR' was reduced to 'ANDAMAN'
   
 - Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places for easy calculation .
 
