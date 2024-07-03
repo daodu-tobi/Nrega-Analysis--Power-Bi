@@ -40,6 +40,8 @@ scheme's impact?
   
 - Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places for easy calculation .
 
+
+
   Snap of dataset after cleaning,
 
 ![Powerbi 1](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/c2b9e08d-6587-432d-9732-65987958befa)
@@ -53,7 +55,6 @@ scheme's impact?
   ![Count of state and districts](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/c0da95aa-98ac-4bac-bc90-2f9997b53b70)
 
    
-
 - Step 8 : The use of clustered column charts was used to create a visual to display fields such as 'Total number of job cards', 'Active job cards', 'Total workers' and 'Active workers'.
 
    Snap of visuals for employment opportunities across states and districts
@@ -62,14 +63,35 @@ scheme's impact?
 
    #### INSIGHT FROM EMPLOYMENT ANALYSIS 
 
-  - Job cards rate were high in states with many districts.
+- Job cards rate were high in states with many districts and high number of work force.
 
-  - States with less districts were given few numbers employment.
+   'BIHAR' with 38 districts and 23million workers got 18million job cards
 
-  - There are more workers in states with many districts therefore job cards to active job card ratio was high.
+  'UTAH' with 75 districts, 23million workers got 18million job cards
 
-  - There are no regional disparities in the distribution of employment as states with more districts got more employment due to higher number of workers and states with fewer districts got fewer number of employment due to low number of workers.
+  'MAHARASHATRA' with 34 districts, 28million workers got 13million job cards
+
+  'WEST BENEGAL' with 23 districts, 26 million workers got  9 million job cards
+
+  'RAJASTHAN' with 33 districts, 23 million work force got 12 million job cards
+
+- States with relatively high number of districts but lower number of work force were given few numbers job cards.
+
+  'PUNJAB' with 23 districts, 3 million worker were given 2 million job cards.
+
+  'KARALA' with 14 districts, 6 million workers were given 4 million job cards.
+
+  'JAMMU' with 20 districts, 2 million workers were given 1 million job cards
+
+  'MEGHALAYA' with 12 districts, 1 million workers got 655k job cards
+ 
+- There are regional disparities in the distribution of employment in states with higher number of districts, as some states with more work force got less job card compared with some states with same number of districts and workers
     
+  'WEST BENEGAL' with 23 districts, 26 million workers got  9 million job cards
+
+  'RAJASTHAN' with 33 districts, 23 million work force got 12 million job cards
+
+  Generally, job card distribution ratio in states with lower number of districts and work force was close
 
 - Step 9 : Creation of hierarchy to make the districts a subset of each states and creating visuals through the use of line charts to display the budget allocation and its correlation with employment opportunities.
 
