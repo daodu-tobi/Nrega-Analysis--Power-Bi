@@ -133,7 +133,13 @@ scheme's impact?
 
    #### INSIGHT FROM COMPLETED WORK ANALYSIS
 
-  - States with higher ratio of completed works to available works had higher number of active 
+  - States with higher ratio of completed works to available works had higher number of active
+ 
+  'UTTAH' has 16,630,532 active workers thereby completing 342,531 works
+
+  'KANATAKA' has 10,627,340 active workers thereby completing 401,120
+
+  'MADHYA' has 13,292,232 active workers thereby completing 420,359 works
   
   - Lack of approved funds to support workers in a state led to large number of uncompleted work
 
@@ -143,6 +149,5 @@ scheme's impact?
 
   - For full effectiveness of the scheme budget distribution should be well monitored to avoid lack of funds in some states
 
-  - Adding more budgets to the scheme will aid in acquiring more active workers for the completion of projects
-
+  - Adding more budgets to the scheme will create more employment in states with more districts thereby more active workers for the completion of projects.
 
