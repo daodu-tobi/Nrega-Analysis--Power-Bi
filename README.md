@@ -40,8 +40,6 @@ scheme's impact?
   
 - Step 5 : Changing datatype of numerical columns from decimal to fixed decimal to change some of the values to two decimal places for easy calculation .
 
-
-
   Snap of dataset after cleaning,
 
 ![Powerbi 1](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/c2b9e08d-6587-432d-9732-65987958befa)
@@ -103,9 +101,25 @@ scheme's impact?
 
     - States with higher number of districts got higher budgets, however, WEST BENGAL had no budget all despite high number of districts.
 
+      'UTTAH' with 75 district was allocated 210 million Rupee  from the total budget of (2 billion) Rupee 
+
+      'ANDHRA' with 26 districts was allocated the highest budget 215 million
+
+      'MADHYA' with 52 districts was allocated 200 million
+
     - Higher budgets in states with many districts resulted higher in number of employment
 
+      'UTTAH' with 210 million budget had two million jobs available
+
+      'ANDHRA' with 215 million budget had one million jobs available
+
+      'MADHYA' with 200 million budget had one million jobs available
+
      - With reduced budgets, employment rates in states reduced drastically.
+
+       'NAGALAND' with 15 million budgets had only fifteen thousand jobs available
+   
+       'TRIPURA' with 20 million budjects had only 269 thosands jobs available
 
   - Completion of work was majorly high in states with higher job card rate
     
