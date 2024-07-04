@@ -65,13 +65,13 @@ scheme's impact?
 
    'BIHAR' with 38 districts and 23million workers got 18million job cards
 
-  'UTAH' with 75 districts, 23million workers got 18million job cards
+   'UTAH' with 75 districts, 23million workers got 18million job cards
 
-  'MAHARASHATRA' with 34 districts, 28million workers got 13million job cards
+   'MAHARASHATRA' with 34 districts, 28million workers got 13million job cards
 
-  'WEST BENEGAL' with 23 districts, 26 million workers got  9 million job cards
+   'WEST BENEGAL' with 23 districts, 26 million workers got  9 million job cards
 
-  'RAJASTHAN' with 33 districts, 23 million work force got 12 million job cards
+   'RAJASTHAN' with 33 districts, 23 million work force got 12 million job cards
 
 - States with relatively high number of districts but lower number of work force were given few numbers job cards.
 
@@ -97,9 +97,9 @@ scheme's impact?
 
   ![Power bi 3](https://github.com/daodu-tobi/Nrega-Analysis--Power-Bi/assets/145832039/23676f71-6b81-48b2-a885-c0c5f1612af4)
 
-   #### INSIGHT FROM BUDGET ALLOCATION ANALYSIS 
-
-    - States with higher number of districts got higher budgets, however, WEST BENGAL had no budget all despite high number of districts.
+   #### INSIGHT FROM BUDGET ALLOCATION ANALYSIS
+   
+ - States with higher number of districts got higher budgets, however, WEST BENGAL had no budget all despite high number of districts.
 
       'UTTAH' with 75 district was allocated 210 million Rupee  from the total budget of (2 billion) Rupee 
 
@@ -107,7 +107,7 @@ scheme's impact?
 
       'MADHYA' with 52 districts was allocated 200 million
 
-    - Higher budgets in states with many districts resulted higher in number of employment
+ - Higher budgets in states with many districts resulted higher in number of employment
 
       'UTTAH' with 210 million budget had two million jobs available
 
@@ -115,13 +115,13 @@ scheme's impact?
 
       'MADHYA' with 200 million budget had one million jobs available
 
-     - With reduced budgets, employment rates in states reduced drastically.
+- With reduced budgets, employment rates in states reduced drastically.
 
-       'NAGALAND' with 15 million budgets had only fifteen thousand jobs available
+        'NAGALAND' with 15 million budgets had only fifteen thousand jobs available
    
        'TRIPURA' with 20 million budjects had only 269 thosands jobs available
 
-  - Completion of work was majorly high in states with higher job card rate
+ - Completion of work was majorly high in states with higher job card rate
     
 
 - Step 10 : The use of tables to calculate the sum of completed works, factors that contributed to the completed works
