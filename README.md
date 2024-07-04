@@ -149,5 +149,5 @@ scheme's impact?
 
   - For full effectiveness of the scheme budget distribution should be well monitored to avoid lack of funds in some states
 
-  - Adding more budgets to the scheme will create more employment in states with more districts thereby more active workers for the completion of projects.
+  - Adding more budgets to the scheme will create more employment in states with more districts thereby allowing more active workers for the completion of projects.
 
