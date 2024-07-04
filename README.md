@@ -119,7 +119,7 @@ scheme's impact?
 
         'NAGALAND' with 15 million budgets had only fifteen thousand jobs available
    
-       'TRIPURA' with 20 million budjects had only 269 thosands jobs available
+       'TRIPURA' with 20 million budgets had only 269 thousands jobs available
 
  - Completion of work was majorly high in states with higher job card rate
     
