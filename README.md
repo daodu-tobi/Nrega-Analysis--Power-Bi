@@ -26,7 +26,7 @@ scheme's impact?
 
 - Step 2 : Open power query editor to clean data and get data ready for analyzes.
 
-- Step 3 : Reduction of entries names in categorical columns to aid better vizualization.
+- Step 3 : Reduction of entries names in categorical columns to aid better visualization.
   
          'SILIGURI MAHAKUMA PARISAD' was reduced to 'SILIGURI M'
          'Darjeeling Gorkha Hill Council (DGHC) was reduced to 'DGHC
